@@ -46,3 +46,17 @@ h1{
 .resize{
     margin-right: 90px;
 }
+.text-color{
+    color:orange;
+}
+.experience-item{
+    width:40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+}
+.Experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
