@@ -3,8 +3,11 @@ body{
     margin: 0;
     padding: 0;
 }
+p{
+    text-align: justify;
+}
 .top-bg{
-    background: url("images/top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -25,7 +28,7 @@ section{
     margin-left: 50px;
 }
 .half-width img{
-    width:80%;
+    width:90%;
 }
 .half-width a{
     text-decoration: none;
@@ -33,4 +36,13 @@ section{
     padding: 8px 30px;
     border-radius: 5px;
     color:#fff;
+    font-weight: 700;
+}
+.dream-bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.resize{
+    margin-right: 90px;
 }
