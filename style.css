@@ -19,7 +19,7 @@ h1{
 .color-add{
     color:orange;
 }
-section{
+.flexiable-area{
     display: flex;
 }
 .half-width{
