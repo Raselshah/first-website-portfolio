@@ -65,3 +65,18 @@ h1{
 h2{
     font-size: 35px;
 }
+#web-border{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+
+}
+#stack-border{
+    border-left: 10px solid;
+    border-image: linear-gradient(#ff5e00,#d4b710);
+    border-image-slice: 1;
+}
+footer p{
+    text-align:center ;
+    margin-top: 140px;
+}
